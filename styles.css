@@ -1,0 +1,9 @@
+.dictation_textarea {
+  max-width: 90vw;
+  min-height: 50px;
+  border: 1px solid;
+}
+
+::highlight(color-red) {
+  color: red;
+}
